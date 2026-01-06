@@ -35,7 +35,7 @@
 - Совершенствую навыки работы с базами данных
 
 ## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchousmutant&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchousmutant&show_icons=true&theme=radical)
 
 ## 💻 Используемые языки
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchousmutant&layout=compact&theme=radical)
